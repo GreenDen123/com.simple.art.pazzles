@@ -2,39 +2,11 @@
   "version": 1,
   "themes": [
     {
-      "id": "newyear",
-      "name_ru": "Новый год",
-      "name_en": "New Year",
-      "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/newyear_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/newyear.json"
-    },
-    {
-      "id": "easter",
-      "name_ru": "Пасха",
-      "name_en": "Easter",
-      "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/easter_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/easter.json"
-    },
-    {
       "id": "nature",
       "name_ru": "Природа",
       "name_en": "Nature",
-      "icon": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/icons/Priroda.png",
+      "icon": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/icons/Priroda.png",
       "dataUrl": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/data/nature.json"
-    },
-    {
-      "id": "home",
-      "name_ru": "Дом и уют",
-      "name_en": "Home & Cozy",
-      "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/home_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/home.json"
-    },
-    {
-      "id": "animals",
-      "name_ru": "Животные",
-      "name_en": "Animals",
-      "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/animals_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/animals.json"
     }
   ]
 }
