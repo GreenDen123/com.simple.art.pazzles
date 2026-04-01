@@ -3,10 +3,24 @@
   "images": [
     {
       "id": "nature_1",
-      "url": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/Nature/Bambukovii les.jpeg",
-      "thumbnail": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/Nature/Bambukovii les.jpeg",
-      "title_ru": "Лес",
-      "title_en": "Forest"
+      "url": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Bambukovii%20les.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Bambukovii%20les.jpeg",
+      "title_ru": "Бамбуковый лес",
+      "title_en": "Bamboo Forest"
+    },
+    {
+      "id": "nature_2",
+      "url": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Lesnoe%20ozero%20(2).jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Lesnoe%20ozero%20(2).jpeg",
+      "title_ru": "Лесное озеро",
+      "title_en": "Forest Lake"
+    },
+    {
+      "id": "nature_3",
+      "url": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Polea%20podsolnuh.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/Nature/Polea%20podsolnuh.jpeg",
+      "title_ru": "Поле подсолнухов",
+      "title_en": "Sunflower Field"
     }
   ]
 }
