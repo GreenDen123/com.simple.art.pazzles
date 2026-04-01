@@ -19,9 +19,9 @@
       "id": "nature",
       "name_ru": "Природа",
       "name_en": "Nature",
-      "icon": "https://github.com/GreenDen123/com.simple.art.pazzles/blob/main/icons/Priroda.jpeg",
-      "dataUrl": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/refs/heads/main/nature.json"
-    },
+      "icon": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/icons/nature_icon.png",
+      "dataUrl": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/data/nature.json"
+    }
     {
       "id": "home",
       "name_ru": "Дом и уют",
