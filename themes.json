@@ -35,13 +35,6 @@
       "name_en": "Animals",
       "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/animals_icon.png",
       "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/animals.json"
-    },
-    {
-      "id": "animation",
-      "name_ru": "Анимация",
-      "name_en": "Animation",
-      "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/animation_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/animation.json"
     }
   ]
 }
