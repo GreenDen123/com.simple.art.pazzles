@@ -20,7 +20,7 @@
       "name_ru": "Природа",
       "name_en": "Nature",
       "icon": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/icons/nature_icon.png",
-      "dataUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/data/nature.json"
+      "dataUrl": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/refs/heads/main/nature.json"
     },
     {
       "id": "home",
