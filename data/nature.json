@@ -1,0 +1,12 @@
+{
+  "themeId": "nature",
+  "images": [
+    {
+      "id": "nature_1",
+      "url": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/nature/forest.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/GreenDen123/com.simple.art.pazzles/main/images/nature/forest.jpg",
+      "title_ru": "Лес",
+      "title_en": "Forest"
+    }
+  ]
+}
