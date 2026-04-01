@@ -1,1 +1,19 @@
-
+{
+  "themeId": "nature",
+  "images": [
+    {
+      "id": "nature_1",
+      "url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/nature/forest.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/nature/thumbs/forest_thumb.jpg",
+      "title_ru": "Лес",
+      "title_en": "Forest"
+    },
+    {
+      "id": "nature_2",
+      "url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/nature/mountains.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/nature/thumbs/mountains_thumb.jpg",
+      "title_ru": "Горы",
+      "title_en": "Mountains"
+    }
+  ]
+}
